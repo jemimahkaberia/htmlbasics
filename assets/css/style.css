@@ -1,0 +1,36 @@
+.fruits{
+    border: 2px solid red;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    color: #742be2;
+}
+.cars{
+    border: 2px solid blue;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    color: #0d8000;
+}
+.Fruits{
+    border: 2px solid rebeccapurple;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    color: #a5412a;
+}
+#school{
+    border: 2px solid black;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    color: #008b7b;
+}
+.myform{
+    border: 2px solid orangered;
+    text-align: justify;
+    padding: 20px;
+    margin: 20px;
+    color: #0040ff;
+    background-color: orange;
+}

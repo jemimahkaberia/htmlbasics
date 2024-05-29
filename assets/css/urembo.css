@@ -1,0 +1,38 @@
+ul{
+    list-style-type: none;
+margin: 0;
+    padding: 0;
+ background-color: aqua;
+    overflow: auto;
+}
+li{
+    float: left ;
+}
+li a{
+    padding: 20px;
+    color: blue;
+    display:block;
+    text-decoration: none;
+    font-family: Chilanka;
+}
+h2{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+p{
+    font-family: "Abyssinica SIL";
+    color:green;
+    padding: 30px;
+}
+th,td {
+    border: 2px dotted #0040ff;
+    padding: 20px;
+    font-family: aakar;
+}
+table{
+    border-collapse: collapse;
+    width: 100px;
+}
